@@ -19,10 +19,12 @@ An AI-powered research assistant built using LangGraph, LangChain, Mistral AI, a
 - Tavily Search API
 
 Create a .env file:
+
 MISTRAL_API_KEY=your_key
 TAVILY_API_KEY=your_key
 
 
 Run:
-python pipeline.py
+For terminal :- python pipeline.py
+For UI use app.py(Streamlit run app.py)
 
